@@ -58,6 +58,6 @@ __데이터베이스__ - `MySql`
 
 __형상 관리__ - `git` , `notion`
 
-__개발 환경__ - `IntelliJ`, `VSCode`
+__개발 환경__ - `IntelliJ`, `Visual Studio Code`
 
 
