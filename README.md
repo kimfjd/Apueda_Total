@@ -52,7 +52,7 @@ __구독__ - 구독 유/무에 따라 게시판 읽기 일부 제한 / 스와이
 ### 🔧 개발 환경
 __프론트엔드__ - `HTML`, `CSS`, `JavaScript`, `React`
 
-__백엔드__ - `SpringBoot(2.7)` , `Firebase`
+__백엔드__ - `SpringBoot(2.7)` , `Firebase`, 'Python'
 
 __데이터베이스__ - `MySql`
 
